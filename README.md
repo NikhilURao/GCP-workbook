@@ -14,7 +14,7 @@ GCP-workbook
 
     1. Taxonomy of storage solutions on GCP.
 
-![image alt text](image_0.jpg)
+![image alt text](image_0.png)
 
     2.  Storage solutions use cases.
 
