@@ -28,7 +28,7 @@ GCP-workbook
 
     3. Taxonomy of compute services/solutions on GCP
 
-![image alt text](image_4.jpg)
+![image alt text](image_4.png)
 
     4. Cloud Use Cases:
 
